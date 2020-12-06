@@ -10,10 +10,12 @@ I'm Aki! I am a Mobile Developer of web. I love learing new technology and skill
 - <img width="14px" src="img/icons/swift/swift-original.svg"/> Swift
 
 ### 🔧 Tool
-- Android Studio
-- Xcode
-- Git
+- <img width="14px" src="img/icons/android/android-original.svg"/> Android Studio
+- <img width="14px" src="img/icons/apple/apple-original.svg"/> Xcode
+- <img width="14px" src="img/icons/git/git-original.svg"/> Git
 
 ## 🔗 Get in touch
-- Personal site: https://akiwnag.com
-- Linkedin: https://www.linkedin.com/in/aki-wang-0b338787/
+- <img width="14px" src="img/blogger.svg"/> https://akiwnag.com
+- <img width="14px" src="img/icons/linkedin/linkedin-original.svg"/> https://www.linkedin.com/in/aki-wang-0b338787/
+
+
