@@ -15,7 +15,7 @@ I'm Aki! I am a Mobile Developer of web. I love learing new technology and skill
 - <img width="14px" src="img/icons/git/git-original.svg"/> Git
 
 ## 🔗 Get in touch
-- <img width="14px" src="img/blogger.svg"/> https://akiwnag.com
+- <img width="14px" src="img/blogger.svg"/> https://akiwang.com/
 - <img width="14px" src="img/icons/linkedin/linkedin-original.svg"/> https://www.linkedin.com/in/aki-wang-0b338787/
 
 
