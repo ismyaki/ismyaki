@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Aki! I am a Mobile Developer of web. I love learing new technology and skills of mobile, I writting articles about technology of program I leanrned on my website(https://akiwang.com)😸.
+Hey there 👋,
+I'm Aki! I am a Mobile Developer of web. I love learing new technology and skills of mobile, I writting articles about technology of program I leanrned on my website(https://akiwang.com)😸.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
