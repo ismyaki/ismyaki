@@ -3,16 +3,16 @@ I'm Aki! I am a Mobile Developer of web. I love learing new technology and skill
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- Android
-- IOS
-- Kotlin
-- Java
-- Kotlin
-- Swift
+- <img width="14px" src="img/icons/android/android-original.svg"/> Android
+- <img width="14px" src="img/icons/apple/apple-original.svg"/> IOS
+- <img width="14px" src="img/icons/java/java-original.svg"/> Java
+- <img width="14px" src="img/icons/kotlin/kotlin-original.svg"/> Kotlin
+- <img width="14px" src="img/icons/swift/swift-original.svg"/> Swift
 
 ### 🔧 Tool
 - Android Studio
 - Xcode
+- Git
 
 ## 🔗 Get in touch
 - Personal site: https://akiwnag.com
