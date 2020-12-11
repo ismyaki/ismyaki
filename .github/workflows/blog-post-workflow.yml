@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ismyaki/ismyaki@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Your RSS feed url
           feed_list: "https://akiwang.com/blog/index.xml"
