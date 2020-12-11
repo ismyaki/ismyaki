@@ -20,5 +20,5 @@ I'm Aki! I am a Mobile Developer of web. I love learing new technology and skill
 
 
 ## 📕 Latest Blog Posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
