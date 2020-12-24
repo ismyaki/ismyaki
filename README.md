@@ -21,9 +21,9 @@ I'm Aki! I am a Mobile Developer of web. I love learing new technology and skill
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to install Raspberry Pi OS](https://akiwang.com/blog/20201224_how_to_install_raspberry_pi_os/)
 - [How to read write file in Python](https://akiwang.com/blog/20201211_python_how_to_read_file/)
 - [如何使用 SCP 指令傳送檔案](https://akiwang.com/blog/20201210_send_file_to_remore/)
 - [Python Import and From](https://akiwang.com/blog/20201120_python_import/)
 - [Swift Scope Functions](https://akiwang.com/blog/20201030_swift_scope_functions/)
-- [ViewModelFactory 懶人寫法](https://akiwang.com/blog/20201007_android_mvvm_view_model_factory/)
 <!-- BLOG-POST-LIST:END -->
