@@ -21,9 +21,9 @@ I'm Aki! I am a Mobile Developer of web. I love learing new technology and skill
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Constructor](https://akiwang.com/blog/20210329_kotlin_constructor/)
 - [Kotlin lazy and lateinit](https://akiwang.com/blog/20210325_kotlin_lateinit_and_lazy/)
 - [Android, findViewById, ViewBinding, DataBinding](https://akiwang.com/blog/20210314_how_to_find_view/)
 - [How to install Raspberry Pi OS](https://akiwang.com/blog/20201224_how_to_install_raspberry_pi_os/)
 - [How to read write file in Python](https://akiwang.com/blog/20201211_python_how_to_read_file/)
-- [如何使用 SCP 指令傳送檔案](https://akiwang.com/blog/20201210_send_file_to_remore/)
 <!-- BLOG-POST-LIST:END -->
