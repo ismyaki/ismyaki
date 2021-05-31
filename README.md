@@ -21,9 +21,9 @@ I'm Aki! I am a Mobile Developer. I love learing new technology and skills of mo
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Iterator and Generator in Python?](https://akiwang.com/blog/20210531_python_iterator_and_generator/)
 - [How to use Python Comprehension](https://akiwang.com/blog/20210531_python_comprehension/)
 - [How to use Python Lambda](https://akiwang.com/blog/20210528_python_lambda/)
 - [How to use RESTful API](https://akiwang.com/blog/20210527_restful_api/)
 - [PHP Array 常用 function](https://akiwang.com/blog/20210525_php_array_fun/)
-- [PHP Data Type](https://akiwang.com/blog/20210520_php_data_type/)
 <!-- BLOG-POST-LIST:END -->
