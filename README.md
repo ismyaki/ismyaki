@@ -21,9 +21,9 @@ I'm Aki! I am a Mobile Developer. I love learing new technology and skills of mo
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Python Comprehension](https://akiwang.com/blog/20210531_python_comprehension/)
 - [How to use Python Lambda](https://akiwang.com/blog/20210528_python_lambda/)
 - [How to use RESTful API](https://akiwang.com/blog/20210527_restful_api/)
 - [PHP Array 常用 function](https://akiwang.com/blog/20210525_php_array_fun/)
 - [PHP Data Type](https://akiwang.com/blog/20210520_php_data_type/)
-- [How to use Raspberry Pi screen without sleeping](https://akiwang.com/blog/20210427_how_to_use_raspberry_pi_screen_without_sleeping/)
 <!-- BLOG-POST-LIST:END -->
