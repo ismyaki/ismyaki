@@ -21,9 +21,9 @@ I'm Aki! I am a Mobile Developer. I love learing new technology and skills of mo
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to define Dart variables](https://akiwang.com/blog/20210616_flutter_define_value/)
 - [Artisan Error: Failed to listen on localhost:8000](https://akiwang.com/blog/20210602_laravel_artisan_error_failed_to_listen_on_localhost_8000/)
 - [What is Iterator and Generator in Python?](https://akiwang.com/blog/20210531_python_iterator_and_generator/)
 - [How to use Python Comprehension](https://akiwang.com/blog/20210531_python_comprehension/)
 - [How to use Python Lambda](https://akiwang.com/blog/20210528_python_lambda/)
-- [How to use RESTful API](https://akiwang.com/blog/20210527_restful_api/)
 <!-- BLOG-POST-LIST:END -->
